@@ -1,0 +1,12 @@
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator.DA\bin\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.DA.deps.json
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator.DA\bin\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.DA.dll
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator.DA\bin\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.DA.pdb
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator.DA\bin\Debug\netcoreapp2.2\Tanner.Telemetry.dll
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator.DA\bin\Debug\netcoreapp2.2\Tanner.Telemetry.pdb
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator.DA\obj\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.DA.csprojAssemblyReference.cache
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator.DA\obj\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.DA.csproj.CoreCompileInputs.cache
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator.DA\obj\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.DA.AssemblyInfoInputs.cache
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator.DA\obj\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.DA.AssemblyInfo.cs
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator.DA\obj\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.DA.csproj.CopyComplete
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator.DA\obj\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.DA.dll
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator.DA\obj\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.DA.pdb

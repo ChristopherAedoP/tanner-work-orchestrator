@@ -1,0 +1,17 @@
+D:\repo\tanner-payment-api\Tanner.Telemetry\bin\Debug\netcoreapp2.2\Tanner.Telemetry.deps.json
+D:\repo\tanner-payment-api\Tanner.Telemetry\bin\Debug\netcoreapp2.2\Tanner.Telemetry.dll
+D:\repo\tanner-payment-api\Tanner.Telemetry\bin\Debug\netcoreapp2.2\Tanner.Telemetry.pdb
+D:\repo\tanner-payment-api\Tanner.Telemetry\obj\Debug\netcoreapp2.2\Tanner.Telemetry.csprojAssemblyReference.cache
+D:\repo\tanner-payment-api\Tanner.Telemetry\obj\Debug\netcoreapp2.2\Tanner.Telemetry.csproj.CoreCompileInputs.cache
+D:\repo\tanner-payment-api\Tanner.Telemetry\obj\Debug\netcoreapp2.2\Tanner.Telemetry.AssemblyInfoInputs.cache
+D:\repo\tanner-payment-api\Tanner.Telemetry\obj\Debug\netcoreapp2.2\Tanner.Telemetry.AssemblyInfo.cs
+D:\repo\tanner-payment-api\Tanner.Telemetry\obj\Debug\netcoreapp2.2\Tanner.Telemetry.dll
+D:\repo\tanner-payment-api\Tanner.Telemetry\obj\Debug\netcoreapp2.2\Tanner.Telemetry.pdb
+D:\repo\tanner-work-orchestrator\Tanner.Telemetry\bin\Debug\netcoreapp2.2\Tanner.Telemetry.deps.json
+D:\repo\tanner-work-orchestrator\Tanner.Telemetry\bin\Debug\netcoreapp2.2\Tanner.Telemetry.dll
+D:\repo\tanner-work-orchestrator\Tanner.Telemetry\bin\Debug\netcoreapp2.2\Tanner.Telemetry.pdb
+D:\repo\tanner-work-orchestrator\Tanner.Telemetry\obj\Debug\netcoreapp2.2\Tanner.Telemetry.csproj.CoreCompileInputs.cache
+D:\repo\tanner-work-orchestrator\Tanner.Telemetry\obj\Debug\netcoreapp2.2\Tanner.Telemetry.AssemblyInfoInputs.cache
+D:\repo\tanner-work-orchestrator\Tanner.Telemetry\obj\Debug\netcoreapp2.2\Tanner.Telemetry.AssemblyInfo.cs
+D:\repo\tanner-work-orchestrator\Tanner.Telemetry\obj\Debug\netcoreapp2.2\Tanner.Telemetry.dll
+D:\repo\tanner-work-orchestrator\Tanner.Telemetry\obj\Debug\netcoreapp2.2\Tanner.Telemetry.pdb

@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Tanner.Work.Orchestrator.API</name>
+    </assembly>
+    <members>
+        <member name="M:Tanner.Work.Orchestrator.API.Business.WorkBusiness.#ctor(Tanner.Work.Orchestrator.DA.Contracts.IDataAccess{Tanner.Work.Orchestrator.DA.Models.WorkModel},Tanner.Telemetry.AppInsights.ITraceHelper)">
+            <summary>
+            
+            </summary>
+            <param name="dataAccessWork"></param>
+        </member>
+        <member name="M:Tanner.Work.Orchestrator.API.Business.WorkBusiness.ListAsync">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Tanner.Work.Orchestrator.API.Contracts.IDirectorioPersonasBusiness">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Tanner.Work.Orchestrator.API.Contracts.IDirectorioPersonasBusiness.ConsultaAsync(System.Int32,System.Int32,System.Char)">
+            <summary>
+            
+            </summary>
+            <param name="info"></param>
+            <param name="rut"></param>
+            <param name="dv"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Tanner.Work.Orchestrator.API.Contracts.IDirectorioPersonasBusiness.ServiceVerifyAsync(System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="sysinfo"></param>
+            <param name="info"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Tanner.Work.Orchestrator.API.Contracts.IWorkBusiness">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Tanner.Work.Orchestrator.API.Contracts.IWorkBusiness.ListAsync">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Tanner.Work.Orchestrator.API.Controllers.DirectorioPersonasController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Tanner.Work.Orchestrator.API.Controllers.DirectorioPersonasController.#ctor(Tanner.Work.Orchestrator.API.Contracts.IDirectorioPersonasBusiness)">
+            <summary>
+            
+            </summary>
+            <param name="directorioPersonasBusiness"></param>
+        </member>
+        <member name="M:Tanner.Work.Orchestrator.API.Controllers.DirectorioPersonasController.GetAsync(System.Int32,System.Int32,System.Int32,System.Char)">
+            <summary>
+            Retorna los datos asociados al Rut de consulta. 
+            </summary>
+            <param name="sysinfo"></param>
+            <param name="info"></param>
+            <param name="rut"></param>
+            <param name="dv"></param>
+            <response code="200">Respuesta exitosa de directorio de personas.</response>
+            <response code="400">No se puede acceder a la información solicitada.</response>
+            <response code="404">No se encuentra la información de la persona solicitada.</response>
+            <response code="500">Error interno.</response>
+            GET api/DirectorioPersonas/1000/1003/1/9
+        </member>
+        <member name="T:Tanner.Work.Orchestrator.API.Controllers.WorkController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Tanner.Work.Orchestrator.API.Controllers.WorkController.#ctor(Tanner.Work.Orchestrator.API.Contracts.IWorkBusiness)">
+            <summary>
+            
+            </summary>
+            <param name="workBusiness"></param>
+        </member>
+        <member name="M:Tanner.Work.Orchestrator.API.Controllers.WorkController.GetAsync">
+            <summary>
+            Retorna los datos asociados al Rut de consulta. 
+            </summary>
+            <response code="200">Respuesta exitosa de directorio de personas.</response>
+            <response code="400">No se puede acceder a la información solicitada.</response>
+            <response code="404">No se encuentra la información de la persona solicitada.</response>
+            <response code="500">Error interno.</response>
+            GET api/DirectorioPersonas/1000/1003/1/9
+        </member>
+        <member name="T:Tanner.Work.Orchestrator.API.Models.DirectorioPersonasResponse">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Tanner.Work.Orchestrator.API.Models.DirectorioPersonasResponse.CodigoRetorno">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Tanner.Work.Orchestrator.API.Models.DirectorioPersonasResponse.TipoPersona">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Tanner.Work.Orchestrator.API.Models.DirectorioPersonasResponse.ResultadoConsulta">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Tanner.Work.Orchestrator.API.Models.DirectorioPersonasResponse.Direccion">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Tanner.Work.Orchestrator.API.Models.DirectorioPersonasResponse.Comuna">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Tanner.Work.Orchestrator.API.Models.DirectorioPersonasResponse.Ciudad">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Tanner.Work.Orchestrator.API.Models.DirectorioPersonasResponse.DetalleGiros">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Tanner.Work.Orchestrator.API.Models.DirectorioPersonasResponse.DetalleProfesiones">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Tanner.Work.Orchestrator.API.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            
+            </summary>
+            <param name="configuration"></param>
+            <param name="environment"></param>
+        </member>
+    </members>
+</doc>

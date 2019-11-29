@@ -1,0 +1,10 @@
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator\bin\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.deps.json
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator\bin\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.runtimeconfig.json
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator\bin\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.runtimeconfig.dev.json
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator\bin\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.dll
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator\bin\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.pdb
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator\obj\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.csproj.CoreCompileInputs.cache
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator\obj\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.AssemblyInfoInputs.cache
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator\obj\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.AssemblyInfo.cs
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator\obj\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.dll
+D:\repo\tanner-work-orchestrator\Tanner.Work.Orchestrator\obj\Debug\netcoreapp2.2\Tanner.Work.Orchestrator.pdb
